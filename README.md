@@ -24,10 +24,12 @@ CourDev is a work in progress. Future updates are planned to enhance its functio
 
 1. **Onboarding:** Introduction screens for new users.
 2. **Login/Register:** Secure authentication via Firebase Auth for user login and registration.
-3. **Home Page:** Displays a list of available courses and modules within the app.
-4. **Add Product Page:** Functionality to add new courses or modules to the database.
-5. **Delete Product Page:** Allows users to remove existing courses or modules from the database.
-6. **Update Product Page:** Enables modification of course details or modules within the app.
+3. **Authorization:** Restricted access for authenticated users to perform Create, Update, and Delete operations.
+4. **Home Page:** Displays a list of available courses and modules within the app.
+5. **Add Product Page:** Functionality to add new courses or modules to the database, including importing local images.
+6. **Delete Product Page:** Allows users to remove existing courses or modules from the database.
+7. **Update Product Page:** Enables modification of course details or modules within the app.
+
 
 
 ## Dependencies Used
@@ -63,7 +65,13 @@ To run this project locally, follow these steps:
 
 Here are some visual representations of the app:
 
-<img src="screenshots/poster_apps.png" width="400">
+<img src="screenshots/Poster CourDev.png" width="400">
+<img src="screenshots/login.jpg" width="400">
+<img src="screenshots/home.jpg" width="400">
+<img src="screenshots/details-course.jpg" width="400">
+<img src="screenshots/add-course.jpg" width="400">
+<img src="screenshots/update-course.jpg" width="400">
+
 
 ## License
 
